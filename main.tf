@@ -1,6 +1,6 @@
 terraform {
   backend "s3" {
-    bucket = "soccer31122022"
+    bucket = "ossccar081222"
     key    = "global/s3/terraform.tfstate"
     region = "us-east-1"
   }
