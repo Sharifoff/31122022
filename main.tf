@@ -9,7 +9,7 @@ terraform {
   required_version = ">= 1.2.0"
 
   backend "s3" {
-    bucket = "soccer-bucket-terraform"
+    bucket = "soccer31122022"
     key    = "global/s3/terraform.tfstate"
     region = "us-east-1"
   }
