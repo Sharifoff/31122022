@@ -14,7 +14,7 @@ provider "aws" {
 
 resource "aws_default_vpc" "default" {
     tags = {
-      Name = "Default VPC"
+      Name = "New VPC"
     }
   }
 
