@@ -10,7 +10,7 @@ provider "aws" {
   region = "us-east-1"
 }
 
-
+#edit
 
 resource "aws_default_vpc" "default" {
     tags = {
