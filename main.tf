@@ -19,6 +19,7 @@ resource "aws_default_vpc" "default" {
   }
 
 
+#coUPDATEEEEsdfghjk..54545fghjbnkm,l.
 
 
 resource "aws_instance" "app_server" {
@@ -30,7 +31,3 @@ resource "aws_instance" "app_server" {
 
   }
 }
-
-
-#coUPDATEEEEsdfghjk..54545fghjbnkm,l.
-#coUPDATEEEEsdfghjk..545456465454
